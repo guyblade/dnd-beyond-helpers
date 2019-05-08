@@ -5,6 +5,7 @@
 // @description  Presents Magic Items & Monsters for each chapter in a drop-down for easy viewing
 // @author       guyblade
 // @updateURL    https://raw.githubusercontent.com/guyblade/dnd-beyond-helpers/master/magic-item-quicklist.js
+// @downloadURL  https://raw.githubusercontent.com/guyblade/dnd-beyond-helpers/master/magic-item-quicklist.js
 // @match        https://www.dndbeyond.com/compendium/adventures/*
 // @match        https://www.dndbeyond.com/sources/*
 // @grant        none
