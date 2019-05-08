@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Magic Item Quicklist
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    https://www.blade.io/
+// @version      0.2
 // @description  Presents Magic Items & Monsters for each chapter in a drop-down for easy viewing
 // @author       guyblade
+// @updateURL    https://raw.githubusercontent.com/guyblade/dnd-beyond-helpers/master/magic-item-quicklist.js
 // @match        https://www.dndbeyond.com/compendium/adventures/*
 // @match        https://www.dndbeyond.com/sources/*
 // @grant        none
